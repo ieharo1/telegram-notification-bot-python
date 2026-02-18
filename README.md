@@ -1,30 +1,31 @@
-# telegram-notification-bot-python
+# 📱 Telegram Notification Bot Python
 
-Script ligero en Python para **enviar mensajes automáticos a Telegram** utilizando la API oficial de bots.  
-Pensado para notificaciones de scripts, monitoreo de procesos, pruebas de despliegue y alertas rápidas.
-
----
-
-## 🚀 Características
-
-- Envío de mensajes a usuarios o grupos
-- Soporte para texto plano y formato HTML
-- Fácil integración con cualquier script Python
-- Ideal para:
-  - Notificaciones de backups
-  - Alertas de despliegue
-  - Monitoreo de servicios
-  - Pruebas de automatización
-- Compatible con Google Colab, servidores Linux y Windows
+Script ligero en Python para enviar mensajes automáticos a Telegram desarrollado por **Isaac Esteban Haro Torres**.
 
 ---
 
-## ⚙️ Requisitos
+## 📝 Descripción
 
-- Python 3.7+
-- Librería:
-  - `requests`
+Bot para enviar notificaciones automáticas vía Telegram.
 
-Instalación:
-```bash
-pip install requests
+---
+
+## 🛠️ Stack Tecnológico
+
+- Python
+- python-telegram-bot
+
+---
+
+## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
+
+**Ingeniero en Sistemas · Full Stack · Automatización · Data**
+
+- 📧 Email: zackharo1@gmail.com
+- 📱 WhatsApp: 098805517
+- 💻 GitHub: https://github.com/ieharo1
+- 🌐 Portafolio: https://ieharo1.github.io/portafolio-isaac.haro/
+
+---
+
+© 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
